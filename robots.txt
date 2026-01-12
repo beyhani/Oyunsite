@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://beyhani.github.io/oyun-site/sitemap.xml
